@@ -101,7 +101,7 @@ The `manifests` folder contains Kubernetes manifests.
 
 - **prod**: Store your manifests for production deployments here.
 
-Each manifest will need to have Secrets, enviromental variables adjusted. Most if not all are configured to be accessible via k8's `Ingress` therefore I advise you to adjust it all to your domain.
+Each manifest will need to have Secrets, environmental variables adjusted. Most if not all are configured to be accessible via k8's `Ingress` therefore I advise you to adjust it all to your domain.
 
 Example:
 
